@@ -3,7 +3,8 @@ package main
 import (
 	"flag"
 	"log"
-	"toydb/db"
+
+	"github.com/kazu-peh3/toydb/db"
 )
 
 func server() {
